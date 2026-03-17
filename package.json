@@ -1,11 +1,22 @@
 {
-  
   "private": true,
   "name": "filmax",
   "version": "1.0.0",
-  "description": "Movie discovery web application built with JavaScript, Vite and TMDB API",
+  "description": "Frontend movie browsing application built with JavaScript, Vite, Bootstrap, and the TMDB API.",
   "author": "Antonio Ruiz",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "frontend",
+    "javascript",
+    "vite",
+    "bootstrap",
+    "tmdb",
+    "movies"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonruy/b16-mod3-js-advanced-practice.git"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -19,7 +19,7 @@ export const globalConfig = {
 };
 
 export const apiConfig = {
-  apiKey: "158b32dbb3ad81297e88e22638a1bb1b",
+  apiKey: import.meta.env.VITE_TMDB_API_KEY ?? "",
   langIso: "es-ES",
   baseUrl: "https://api.themoviedb.org/3/",
   posterBaseUrl: "http://image.tmdb.org/t/p",
