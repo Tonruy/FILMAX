@@ -2,6 +2,23 @@
 
 FILMAX is a frontend movie browsing application built with vanilla JavaScript, Vite, Bootstrap, and the TMDB API. The project focuses on delivering a clean browsing experience for movie discovery while demonstrating solid component organization, API integration, and DOM-driven rendering without changing the current product behavior.
 
+## Screenshots
+
+<table align="center" width="800">
+  <tr>
+    <td align="center"><strong>HOME</strong></td>
+    <td align="center"><strong>DETAIL</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./docs/home.png" alt="FILMAX home view" width="390" />
+    </td>
+    <td align="center">
+      <img src="./docs/detail.png" alt="FILMAX movie detail view" width="390" />
+    </td>
+  </tr>
+</table>
+
 ## Key Features
 
 - Browse movie collections by category: now playing, popular, top rated, and upcoming
@@ -92,22 +109,7 @@ npm run build
 - Clear separation between configuration, utilities, UI components, and styles
 - Practical use of Vite for local development and production builds
 
-## Screenshots
 
-<table align="center" width="800">
-  <tr>
-    <td align="center"><strong>HOME</strong></td>
-    <td align="center"><strong>DETAIL</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./docs/home.png" alt="FILMAX home view" width="390" />
-    </td>
-    <td align="center">
-      <img src="./docs/detail.png" alt="FILMAX movie detail view" width="390" />
-    </td>
-  </tr>
-</table>
 
 ## Author
 
