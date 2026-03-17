@@ -1,7 +1,11 @@
 {
-  "name": "b16-mod3-js-advanced-practice",
+  
   "private": true,
-  "version": "0.0.0",
+  "name": "filmax",
+  "version": "1.0.0",
+  "description": "Movie discovery web application built with JavaScript, Vite and TMDB API",
+  "author": "Antonio Ruiz",
+  "license": "MIT"
   "type": "module",
   "scripts": {
     "dev": "vite",
